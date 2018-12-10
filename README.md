@@ -1,9 +1,7 @@
 ### ```This version of the plugin is DEPRECATED. An up-to-date version is available by WiseSource. The price for the plugin is $15. If you're interested in purchasing, contact us on - ```
 ## [```https://wisesource.net/#contact```](https://wisesource.net/#contact)
 
-```sh
-Note: As a product of WiseSource the plugin will be constantly updated and maintained with every future code realease and change from Ameriabank.
-```
+`Note: As a product of WiseSource the plugin will be constantly updated and maintained with every future code realease and change from Ameriabank.`
 
 # WooCommerce Ameriabank Payment Gateway Pretty
 

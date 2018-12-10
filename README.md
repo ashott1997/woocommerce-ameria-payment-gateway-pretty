@@ -1,4 +1,4 @@
-### ```This version of the plugin is DEPRECATED. An upgraded and up-to-date version is made available by my Web Services agency WiseSource. If you're interested in purchasing the plugin contact us on ```
+###```This version of the plugin is DEPRECATED. An upgraded and up-to-date version is made available by my Web Services agency WiseSource. The price for the plugin is $15. If you're interested in purchasing contact us on - ```
 ## [```https://wisesource.net/#contact```](https://wisesource.net/#contact)
 
 # WooCommerce Ameriabank Payment Gateway Pretty

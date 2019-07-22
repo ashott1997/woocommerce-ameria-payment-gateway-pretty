@@ -1,4 +1,4 @@
-### ```This version of the plugin is DEPRECATED. An up-to-date version is available by WiseSource. If you're interested in purchasing, contact us on - ```
+### ```This version of the plugin is DEPRECATED. An up-to-date version will be available soon. If you're interested in purchasing, contact me on - ```
 ## [```https://wisesource.net/#contact```](https://wisesource.net/#contact)
 
 `Note: As a product of WiseSource the plugin will be constantly updated and maintained with every future code realease and change from Ameriabank.`

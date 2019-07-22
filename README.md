@@ -1,5 +1,5 @@
 ### ```This version of the plugin is DEPRECATED. An up-to-date version will be available soon. If you're interested in purchasing, contact me on - ```
-## [```mailto:aram.khachikyan.a@gmail.com```](aram.khachikyan.a@gmail.com)
+## [```aram.khachikyan.a@gmail.com```](mailto:aram.khachikyan.a@gmail.com)
 
 `Note: As a product of WiseSource the plugin will be constantly updated and maintained with every future code realease and change from Ameriabank.`
 

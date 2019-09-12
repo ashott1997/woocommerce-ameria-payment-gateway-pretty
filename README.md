@@ -1,5 +1,4 @@
-### ```This version of the plugin is EXPIRED. An up-to-date version with Ameriabank API 3.0 is available. If you're interested in purchasing, contact me on - ```
-## [```aram.khachikyan.a@gmail.com```](mailto:aram.khachikyan.a@gmail.com)
+### ```This version of the plugin is EXPIRED. An up-to-date version with Ameriabank API 3.0 is available for purchasing here https://shop.aramkhachikyan.com/
 
 `Note: As one of my products the plugin will be constantly updated and maintained with every future code realease and change from Ameriabank.`
 
